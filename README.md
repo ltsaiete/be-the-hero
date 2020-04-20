@@ -1,2 +1,1 @@
-# Be The Hero
-<img src="./frontend/src/assets/logo.svg" align="center" width="150">
+<img src="./frontend/src/assets/logo.svg" width="250">
