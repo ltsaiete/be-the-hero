@@ -15,4 +15,4 @@ Este projecto foi desenvolvido com as seguintes tecnologias:
 * Expo
 
 ## :memo: Licença
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE.md) para mais detalhes.
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
