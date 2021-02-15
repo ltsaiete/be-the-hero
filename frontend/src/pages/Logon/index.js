@@ -42,7 +42,7 @@ export default function Logon(){
                 <form onSubmit={handleLogin} >
                     <h1>Faça seu logon</h1>
 
-                    <input 
+                    <input
                     placeholder= "Sua ID"
                     value = {id}
                     onChange = {e => setId(e.target.value)}
@@ -62,6 +62,6 @@ export default function Logon(){
             <img src = {heroesImg} alt = "Heroes" />
 
         </div>
-        
+
     );
 }

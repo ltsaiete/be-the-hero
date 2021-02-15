@@ -10,7 +10,7 @@ const SessionController = require('./controllers/SessionController');
 
 const routes = express.Router();
 
-routes.post('/sessions', SessionController.create)
+routes.post('/sessions', SessionController.create);
 
 routes.get('/ongs', OngController.index);
 routes.post('/ongs', celebrate({
@@ -35,6 +35,7 @@ routes.get('/incidents', celebrate({
     })
 }), IncidentController.index);
 routes.post('/incidents', IncidentController.create);
+
 routes.delete('/incidents/:id', celebrate({
     [Segments.PARAMS]: Joi.object().keys({
         id: Joi.number().required(),

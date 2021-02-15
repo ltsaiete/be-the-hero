@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9faf864d-7f2a-4e27-9a51-1bb72319c725" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../backend/src/controllers/SessionController.js" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/controllers/SessionController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Logon/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Logon/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Profile/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Profile/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ipzTwm8FM8rwJ5BfCcbVMxKb72" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Escolaridade/FENG/2_Ano/LP/Python" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9faf864d-7f2a-4e27-9a51-1bb72319c725" name="Default Changelist" comment="" />
+      <created>1602619341895</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602619341895</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="568" y="226" key="#Notifications" timestamp="1606887978790">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="568" y="226" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1606887978790" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1606888073534">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606888073534" />
+  </component>
+</project>
